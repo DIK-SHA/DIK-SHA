@@ -45,8 +45,14 @@
 ## 📊 My Github Stats
 
   <br/>
+     <details>
+    <summary>:zap: GitHub Stats</summary>
     <a href="https://github.com/DIK-SHA/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DIK-SHA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </details>
+    <details>
+   <summary>:zap: Most Used Languages</summary>
   <a href="https://github.com/DIK-SHA/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIK-SHA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </details>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

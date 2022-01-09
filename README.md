@@ -2,8 +2,8 @@
   <img width="180" alt="Screenshot 2022-01-06 022024" src="https://media1.giphy.com/media/1MSVKRopegDjYONwdF/200w.webp?cid=ecf05e47g707uxc2eilg6rdrnrfv1ueob8w5rx5h6ktrhwl4&rid=200w.webp&ct=g">
  </p>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diksha</h1>
-<h3 align="center">I'm a Curious Programmer from India.</h3>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,नमस्ते (Namaste)🙏🏻, I'm Diksha</h1>
+<h3 align="center">A Curious Programmer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -80,3 +80,11 @@
     <img src="https://komarev.com/ghpvc/?username=DIK-SHA">
 </a>
 <a href="https://github.com/DIK-SHA?tab=followers"><img src="https://img.shields.io/github/followers/DIK-SHA?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
+<br/>
+
+## ⏰Gentle Reminder 
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
